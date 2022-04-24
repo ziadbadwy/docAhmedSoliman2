@@ -700,9 +700,4 @@
 	});	
 
 })(window.jQuery);
-$(function() {  
-    $("body").niceScroll();
-});
-$("body").niceScroll({
-    zindex: "auto" | [999999999999999]
-});
+
