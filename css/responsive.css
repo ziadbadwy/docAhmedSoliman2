@@ -285,6 +285,7 @@
 	}
 	.o2 {
 		order: 2;
+		margin: auto;
 	}
 	
 	.header-style-two.fixed-header .header-upper{
